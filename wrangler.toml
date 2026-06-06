@@ -1,0 +1,7 @@
+name = "workers3"
+main = "_worker.js"
+compatibility_date = "2025-04-01"
+
+[observability.logs]
+enabled = true
+invocation_logs = true
